@@ -65,7 +65,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, onAuthRequire
             className="flex items-center space-x-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
           >
             <ShoppingCart className="w-4 h-4" />
-            <span>Add to Cart</span>
+            <span>Add To Cart</span>
           </button>
         </div>
       </div>
